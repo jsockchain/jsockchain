@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/jsockchain?template=classic&followup=1&isocalendar=1&languages=1&pagespeed=1&posts=1&projects=1&stars=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=4&posts.source=dev.to&isocalendar.duration=full-year&projects.limit=6&stars.limit=4&config.timezone=America%2FLos_Angeles)
+![Metrics](https://metrics.lecoq.io/jsockchain?template=classic&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FLos_Angeles)
