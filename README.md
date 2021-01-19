@@ -1,1 +1,3 @@
-![Metrics](https://metrics.lecoq.io/jsockchain?template=classic&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FLos_Angeles)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jsockchain&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=jsockchain&show_icons=true&theme=radical)
